@@ -13,4 +13,4 @@
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 	
 	The comparator constructor call is in the Collections.sort parameters
-	The class definition for the comparator is in the new Dog file
+	The class definition for the comparator is below the @override.
